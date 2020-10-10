@@ -1,0 +1,150 @@
+SMALL ARRAYS TEST:
+
+Random Unsorted Array Test:
+Number of elements: 100. Time taken: 2
+Number of elements: 500. Time taken: 1
+Number of elements: 1000. Time taken: 1
+Number of elements: 1500. Time taken: 2
+Number of elements: 2000. Time taken: 1
+Number of elements: 2500. Time taken: 1
+Number of elements: 3000. Time taken: 7
+Number of elements: 3500. Time taken: 2
+Number of elements: 4000. Time taken: 4
+Number of elements: 4500. Time taken: 5
+Number of elements: 5000. Time taken: 5
+
+Partially Sorted Array Test:
+Number of elements: 100. Time taken: 0
+Number of elements: 500. Time taken: 0
+Number of elements: 1000. Time taken: 1
+Number of elements: 1500. Time taken: 1
+Number of elements: 2000. Time taken: 1
+Number of elements: 2500. Time taken: 2
+Number of elements: 3000. Time taken: 3
+Number of elements: 3500. Time taken: 2
+Number of elements: 4000. Time taken: 3
+Number of elements: 4500. Time taken: 4
+Number of elements: 5000. Time taken: 4
+
+Sorted Array Test:
+Number of elements: 100. Time taken: 0
+Number of elements: 500. Time taken: 1
+Number of elements: 1000. Time taken: 0
+Number of elements: 1500. Time taken: 1
+Number of elements: 2000. Time taken: 1
+Number of elements: 2500. Time taken: 1
+Number of elements: 3000. Time taken: 2
+Number of elements: 3500. Time taken: 4
+Number of elements: 4000. Time taken: 8
+Number of elements: 4500. Time taken: 8
+Number of elements: 5000. Time taken: 10
+
+Reverse Order Sorted Array Test:
+Number of elements: 100. Time taken: 0
+Number of elements: 500. Time taken: 0
+Number of elements: 1000. Time taken: 1
+Number of elements: 1500. Time taken: 2
+Number of elements: 2000. Time taken: 4
+Number of elements: 2500. Time taken: 3
+Number of elements: 3000. Time taken: 4
+Number of elements: 3500. Time taken: 5
+Number of elements: 4000. Time taken: 7
+Number of elements: 4500. Time taken: 7
+Number of elements: 5000. Time taken: 9
+
+MEDIUM ARRAYS TEST:
+
+Random Unsorted Array Test:
+Number of elements: 10000. Time taken: 17
+Number of elements: 20000. Time taken: 46
+Number of elements: 30000. Time taken: 31
+Number of elements: 40000. Time taken: 12
+Number of elements: 50000. Time taken: 20
+Number of elements: 60000. Time taken: 26
+Number of elements: 70000. Time taken: 25
+Number of elements: 80000. Time taken: 25
+Number of elements: 90000. Time taken: 33
+Number of elements: 100000. Time taken: 60
+
+Partially Sorted Array Test:
+Number of elements: 10000. Time taken: 2
+Number of elements: 20000. Time taken: 4
+Number of elements: 30000. Time taken: 5
+Number of elements: 40000. Time taken: 10
+Number of elements: 50000. Time taken: 9
+Number of elements: 60000. Time taken: 11
+Number of elements: 70000. Time taken: 13
+Number of elements: 80000. Time taken: 13
+Number of elements: 90000. Time taken: 16
+Number of elements: 100000. Time taken: 18
+
+Sorted Array Test:
+Number of elements: 10000. Time taken: 1
+Number of elements: 20000. Time taken: 2
+Number of elements: 30000. Time taken: 3
+Number of elements: 40000. Time taken: 5
+Number of elements: 50000. Time taken: 5
+Number of elements: 60000. Time taken: 5
+Number of elements: 70000. Time taken: 12
+Number of elements: 80000. Time taken: 8
+Number of elements: 90000. Time taken: 7
+Number of elements: 100000. Time taken: 9
+
+Reverse Order Sorted Array Test:
+Number of elements: 10000. Time taken: 1
+Number of elements: 20000. Time taken: 1
+Number of elements: 30000. Time taken: 3
+Number of elements: 40000. Time taken: 4
+Number of elements: 50000. Time taken: 6
+Number of elements: 60000. Time taken: 9
+Number of elements: 70000. Time taken: 6
+Number of elements: 80000. Time taken: 8
+Number of elements: 90000. Time taken: 12
+Number of elements: 100000. Time taken: 7
+
+LARGE ARRAYS TEST:
+
+Random Unsorted Array Test:
+Number of elements: 100000. Time taken: 34
+Number of elements: 250000. Time taken: 86
+Number of elements: 500000. Time taken: 216
+Number of elements: 750000. Time taken: 330
+Number of elements: 1000000. Time taken: 401
+Number of elements: 2500000. Time taken: 1187
+Number of elements: 5000000. Time taken: 2735
+Number of elements: 7500000. Time taken: 3690
+Number of elements: 10000000. Time taken: 6200
+
+Partially Sorted Array Test:
+Number of elements: 100000. Time taken: 26
+Number of elements: 250000. Time taken: 66
+Number of elements: 500000. Time taken: 140
+Number of elements: 750000. Time taken: 215
+Number of elements: 1000000. Time taken: 293
+Number of elements: 2500000. Time taken: 769
+Number of elements: 5000000. Time taken: 1607
+Number of elements: 7500000. Time taken: 2451
+Number of elements: 10000000. Time taken: 3330
+
+Sorted Array Test:
+Number of elements: 100000. Time taken: 8
+Number of elements: 250000. Time taken: 22
+Number of elements: 500000. Time taken: 42
+Number of elements: 750000. Time taken: 63
+Number of elements: 1000000. Time taken: 88
+Number of elements: 2500000. Time taken: 202
+Number of elements: 5000000. Time taken: 1020
+Number of elements: 7500000. Time taken: 931
+Number of elements: 10000000. Time taken: 1454
+
+Reverse Order Sorted Array Test:
+Number of elements: 100000. Time taken: 8
+Number of elements: 250000. Time taken: 23
+Number of elements: 500000. Time taken: 44
+Number of elements: 750000. Time taken: 121
+Number of elements: 1000000. Time taken: 90
+Number of elements: 2500000. Time taken: 389
+Number of elements: 5000000. Time taken: 741
+Number of elements: 7500000. Time taken: 1092
+Number of elements: 10000000. Time taken: 1650
+

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=QuickSorter
+comment0.text=\n\ Abstract\ class\ QuickSorter\ -\ Holds\ the\ common\ methods\ to\ be\ used\ by\ the\ QuickSort\ classes.\n\ @author\ Yazdan\ Basir\ &\ Jannat-ul-Ferdous\n
+comment1.params=a
+comment1.target=void\ sort(java.lang.Comparable[])
+comment1.text=\n\ Common\ method\ between\ all\ the\ classes\ used\ to\ start\ QuickSort\n\ \n\ @param\ a\ T[]\n
+comment2.params=a\ fst\ lst
+comment2.target=void\ qSort(java.lang.Comparable[],\ int,\ int)
+comment2.text=\n\ This\ method\ will\ be\ starting\ the\ recursive\ sorting\ process.\n\ \n\ @param\ a\ T[]\n\ @param\ fst\ int\n\ @param\ lst\ int\n
+comment3.params=pivot\ a\ fst\ lst
+comment3.target=int\ partition(java.lang.Comparable,\ java.lang.Comparable[],\ int,\ int)
+comment3.text=\n\ Will\ return\ the\ value\ at\ which\ the\ array\ is\ to\ be\ partitioned\ and\ further\ broken\ down\n\ \n\ @param\ pivot\ T\n\ @param\ a\ T[]\n\ @param\ fst\ int\n\ @param\ lst\ int\n
+numComments=4

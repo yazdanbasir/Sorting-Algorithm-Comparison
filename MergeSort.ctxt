@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MergeSort
+comment0.text=\n\ Breaks\ down\ the\ array\ into\ two\ parts\ right\ down\ the\ middle.\n\ Recursively\ sorts\ each\ half\ and\ then\ puts\ them\ back\ together\ in\ total\ order.\n\ \n\ @author\ Yazdan\ Basir\ &\ Jannat-ul-Ferdous\n
+comment1.params=
+comment1.target=MergeSort()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ MergeSort\n
+comment2.params=y
+comment2.target=java.lang.Comparable[]\ sorting(java.lang.Comparable[])
+comment2.text=\n\ Main\ sorting\ method\ that\ starts\ the\ sorting\ and\ calls\ the\ recursive\ sort()\ method.\n\ \n\ @param\ y\ T[]\n
+comment3.params=y\ start\ end
+comment3.target=void\ sort(java.lang.Comparable[],\ int,\ int)
+comment3.text=\n\ Recursively\ sorts\ each\ half\ of\ the\ original\ array.\n\ Calls\ merge()\ to\ put\ them\ back\ together.\n\ \n\ @param\ y\ T[]\n\ @param\ start\ int\n\ @param\ end\ int\n
+comment4.params=y\ start\ half\ end
+comment4.target=void\ merge(java.lang.Comparable[],\ int,\ int,\ int)
+comment4.text=\n\ Puts\ the\ sorted\ halves\ back\ in\ order\ into\ one\ array\ by\ checking\ the\ values\ against\ each\ other.\n\ \n\ @param\ y\ T[]\n\ @param\ start\ int\n\ @param\ half\ int\n\ @param\ end\ int\n
+numComments=5

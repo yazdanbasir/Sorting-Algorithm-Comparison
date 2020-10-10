@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=QuickSortMedian
+comment0.text=\n\ Sorts\ an\ array\ by\ selecting\ the\ pivot\ value\ to\ be\ the\ median\ of\ the\ first,\ last,\ and\ middle\ values\n\ @author\ Yazdan\ Basir\ &\ Jannat-ul-Ferdous\n
+comment1.params=
+comment1.target=QuickSortMedian()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ QuickSortMedian\n
+comment2.params=y
+comment2.target=java.lang.Comparable[]\ sorting(java.lang.Comparable[])
+comment2.text=\n\ Calls\ qSort()\ on\ the\ array\ passed\ as\ an\ argument.\ Starts\ the\ recursive\ sorting\ process.\n\ \n\ @param\ y\ T[]\n
+comment3.params=a\ fst\ lst
+comment3.target=void\ qSort(java.lang.Comparable[],\ int,\ int)
+comment3.text=\n\ Continues\ to\ recursively\ sort\ each\ smaller\ array\ as\ the\ original\ array\ gets\ smaller\n\ \n\ @param\ a\ T[]\n\ @param\ fst\ int\n\ @param\ lst\ int\n
+comment4.params=a\ fst\ lst
+comment4.target=java.lang.Comparable[]\ qSortReturn(java.lang.Comparable[],\ int,\ int)
+comment4.text=\n\ This\ is\ a\ copy\ of\ the\ method\ above\ to\ be\ used\ by\ the\ unit\ tests.\n\ Returns\ the\ array\ after\ the\ sorting\ so\ the\ unit\ test\ can\ see\ if\ it\ was\ correct.\n
+comment5.params=a\ fst\ lst
+comment5.target=int\ partition(java.lang.Comparable[],\ int,\ int)
+comment5.text=\n\ Assigns\ the\ pivot\ value\ of\ the\ array\ being\ and\ returns\ the\ value\ partitioned\ at\n\ \n\ @param\ a\ T[]\n\ @param\ fst\ int\n\ @param\ lst\ int\n
+comment6.params=a\ x\ y
+comment6.target=void\ swap(java.lang.Comparable[],\ int,\ int)
+comment6.text=\n\ Accepts\ an\ array\ and\ two\ values.\ Swaps\ them\ in\ the\ array.\n\ \n\ @param\ a\ T[]\n\ @param\ x\ int\n\ @param\ y\ int\n
+comment7.params=a\ x\ y
+comment7.target=java.lang.Comparable[]\ swapReturn(java.lang.Comparable[],\ int,\ int)
+comment7.text=\n\ This\ is\ a\ copy\ of\ the\ method\ above\ to\ be\ used\ by\ the\ unit\ tests.\n\ Returns\ the\ array\ after\ the\ swap\ so\ the\ unit\ test\ can\ see\ if\ it\ was\ correct.\n
+numComments=8

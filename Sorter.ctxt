@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Sorter
+comment0.text=\n\ Interface\ that\ holds\ the\ common\ methods\ to\ be\ used\ by\ the\ sorting\ algorithms.\ Implemented\ by\ each\ class.\n\ @author\ Yazdan\ Basir\ &\ Jannat-ul-Ferdous\n
+comment1.params=y
+comment1.target=java.lang.Object[]\ sorting(java.lang.Object[])
+comment1.text=\n\ Main\ sorting\ method\ that\ holds\ the\ operations\ for\ each\ particular\ sort\n\ \n\ @param\ y\ T[]\n
+numComments=2

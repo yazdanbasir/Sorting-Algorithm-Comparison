@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=InsertionSort
+comment0.text=\n\ Checks\ the\ next\ value\ in\ the\ array\ and\ puts\ it\ in\ order\ between\ the\ values\ already\ checked\ and\ sorted.\n\ Goes\ through\ the\ entire\ array\ and\ keeps\ putting\ the\ values\ in\ order\ one\ by\ one\ till\ it\ reaches\ the\ end.\n\n\ @author\ Yazdan\ Basir\ &\ Jannat-ul-Ferdous\n
+comment1.params=
+comment1.target=InsertionSort()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ InsertionSort\n
+comment2.params=y
+comment2.target=java.lang.Comparable[]\ sorting(java.lang.Comparable[])
+comment2.text=\n\ Main\ sorting\ method\ that\ holds\ the\ rest\ of\ the\ process\ for\ Insertion\ Sort.\n\ \n\ @param\ y\ T[]\n
+comment3.params=y\ nextPos
+comment3.target=void\ insert(java.lang.Comparable[],\ int)
+comment3.text=\n\ Checks\ each\ subsequent\ value\ in\ the\ array.\n\ Checks\ between\ which\ two\ values\ that\ have\ been\ checked\ already\ does\ the\ new\ one\ go\ between.\n\ Keeps\ going\ until\ the\ end\ of\ the\ array\ is\ reached\n\ \n\ @param\ y\ T[]\n\ @param\ nextPos\ int\n
+numComments=4
